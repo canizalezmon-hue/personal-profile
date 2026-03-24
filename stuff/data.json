@@ -1,0 +1,9 @@
+notes = {
+    "Nombre de nota": {
+        "texto": "texto de nota muy importante",
+        "etiquetas": [
+            "borrador",
+            "pensamientos"
+        ]
+    }
+}
